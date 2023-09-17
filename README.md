@@ -6,7 +6,7 @@ In [Part II: Analyzing EEG Data](https://github.com/pkoneill/VisualizingBrainWav
 
 
 # Workshop Outline
-## PART I: Brain Waves
+## DAY 1: Brain Waves
 |HR:MIN| Description| 
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
@@ -14,10 +14,9 @@ In [Part II: Analyzing EEG Data](https://github.com/pkoneill/VisualizingBrainWav
 |0:45-1:00| [Virtual Neurophysiology Lab](https://jozsefmeszaros.online/vnl/) , Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Virtual_Lab_Notebook.ipynb)|
 |1:00-1:30| Discussion: [Populations of neurons](http://jozsefmeszaros.online/eeg_previous/)|
 |1:30-1:45| BREAK|
-
-## Part II: Analyzing EEG data 
-HR:MIN| Description| 
-|------|------------|
 |1:45-2:00| [EEG Filter Lab](http://jozsefmeszaros.online/vnl/filterlab.html) , Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Virtual_Lab_Notebook.ipynb)||
 |2:00-2:30| Colab Tutorial: Fourier Transform [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_Fourier.ipynb)|
 |2:30-3:00| Colab Tutorial: Visualize EEG Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_EEG_Data.ipynb)|
+
+## DAY 2: Using the EEG to monitor and record brain activity
+|HR:MIN| Description| 
