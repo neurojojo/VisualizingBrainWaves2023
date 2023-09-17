@@ -15,8 +15,13 @@ In [Part II: Analyzing EEG Data](https://github.com/pkoneill/VisualizingBrainWav
 |1:00-1:30| Discussion: [Populations of neurons](http://jozsefmeszaros.online/eeg_previous/)|
 |1:30-1:45| BREAK|
 |1:45-2:00| [EEG Filter Lab](http://jozsefmeszaros.online/vnl/filterlab.html) , Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Virtual_Lab_Notebook.ipynb)||
-|2:00-2:30| Colab Tutorial: Fourier Transform [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_Fourier.ipynb)|
-|2:30-3:00| Colab Tutorial: Visualize EEG Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_EEG_Data.ipynb)|
 
 ## DAY 2: Using the EEG to monitor and record brain activity
 |HR:MIN| Description| 
+|------|------------|
+|0:00-0:15| Welcome/Introductions/EEG distribution |
+|0:15-0:30| Colab Tutorial: Fourier Transform and Discussion [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_Fourier.ipynb)|
+|0:30-1:00| EEG Demo!|
+|1:00-1:15| BREAK|
+|1:15-2:30| EEG Free Play. Get the sensors secured, take a recording!|
+|2:30-3:00| Analyzing EEG data for sleep/alertness| 
